@@ -1,0 +1,1 @@
+A statically generated blog Next.js and Contentful.
