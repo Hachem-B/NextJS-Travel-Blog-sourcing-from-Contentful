@@ -10,8 +10,8 @@
 
 [Next.js](https://nextjs.org/) [Contentful](https://www.contentful.com) Travel Blog inspired by my travel journals. It is about telling stories, tips, learning about cultures and dipping into adventures with me.
 
-<img src="./screenshot1.jpg" >
-<img src="./screenshot2.jpg"  >
+<img src="./Screenshot1.jpg" >
+<img src="./Screenshot2.jpg"  >
 
 ## Requirements
 
